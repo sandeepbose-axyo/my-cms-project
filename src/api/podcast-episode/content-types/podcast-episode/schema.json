@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "podcast_episodes",
+  "info": {
+    "singularName": "podcast-episode",
+    "pluralName": "podcast-episodes",
+    "displayName": "Podcast Episode"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
